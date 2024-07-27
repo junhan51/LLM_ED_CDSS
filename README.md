@@ -1,3 +1,3 @@
 # Development of a Llama 3-Powered Multi-Agent Clinical Decision Support System for Korean Triage and Acuity Scale (KTAS)-Based Triage and Treatment Planning in Emergency Departments
 
-![figure1](Figure 1 model architecture.jpg)
+![figure1](Figure1_model_architecture.jpg)
